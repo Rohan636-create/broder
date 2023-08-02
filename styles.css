@@ -1,0 +1,24 @@
+#para1{
+  color: aqua;
+  background-color: black;
+  border: 15px solid red;
+border-top-right-radius: 10px ;
+border-top-left-radius: 10px;
+border-bottom: 0px;
+}
+#para2{
+  color: #ff0000;
+  background-color: black;
+  border: 15px solid red;
+border-top-right-radius: 10px ;
+border-top-left-radius: 10px;
+border-bottom: 0px;
+}
+#para3{
+  color:#00ff00;
+  background-color:black;
+  border: 15px solid red;
+border-top-right-radius: 10px ;
+border-top-left-radius: 10px;
+border-bottom: 0px;
+}
