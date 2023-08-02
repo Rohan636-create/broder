@@ -1,5 +1,4 @@
-#para1{
-  height: 80px;width: 40px;
+#para1{ 
   color: aqua;
   background-color: black;
   border: 15px solid red;
@@ -15,9 +14,9 @@ border-top-right-radius: 10px ;
 border-top-left-radius: 10px;
 border-bottom: 0px;
 }
-#para3{
+#para3{background-image: url(https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000);height: 30px ; width: 30px;
   color:#00ff00;
-  background-color:black;
+  background-color:beige;
   border: 15px solid red;
 border-top-right-radius: 10px ;
 border-top-left-radius: 10px;
